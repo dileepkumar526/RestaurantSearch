@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Restaurants</string>
+    <string name="search_hint">Restaurant name, cuisine, or a dish...</string>
+    <string name="restaurant_name">Restaurant</string>
+    <string name="cuisine_type">Cuisine Type</string>
+    <string name="address">Address</string>
+    <string name="menu_titlte">Menu</string>
+    <string name="menu_names">Menu Details</string>
+    <string name="menu_not_found">Sorry, we did not find menu for this Restaurant</string>
+</resources>

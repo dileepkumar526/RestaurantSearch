@@ -1,0 +1,313 @@
+{
+"menus":[
+{
+"restaurantId":1,
+"categories":[
+{
+"id":"26576",
+"name":"Appeteasers",
+"menu-items":[
+{
+"id":"94298",
+"name":"3 Chicken Wings",
+"description":"Tender, Spicy and Juicy. Original or Peri-Crusted",
+"price":"250.00",
+"images":[
+]
+},
+{
+"id":"94301",
+"name":"Chicken Livers and Portuguese Roll",
+"description":"Chicken Livers Topped with PERi-PERi Sauce, Served with A Roll To Soak Up The Sauce",
+"price":"250.00",
+"images":[
+]
+}
+]
+},
+{
+"id":"26588",
+"name":"Peri-peri chicken",
+"menu-items":[
+{
+"id":"94349",
+"name":"1/4 Chicken",
+"description":"Quarter Chicken Marinated with PERi-PERi Sauce and Grilled",
+"price":"385.00",
+"images":[
+]
+},
+{
+"id":"94352",
+"name":"1/2 Chicken",
+"description":"Half Chicken Marinated with PERi-PERi Sauce and Grilled",
+"price":"685.00",
+"images":[
+]
+}
+]
+}
+]
+},
+{
+"restaurantId":2,
+"categories":[
+{
+"id":"26576",
+"name":"Appeteasers",
+"menu-items":[
+{
+"id":"94298",
+"name":"3 Chicken Wings",
+"description":"Tender, Spicy and Juicy. Original or Peri-Crusted",
+"price":"250.00",
+"images":[
+]
+},
+{
+"id":"94301",
+"name":"Chicken Livers and Portuguese Roll",
+"description":"Chicken Livers Topped with PERi-PERi Sauce, Served with A Roll To Soak Up The Sauce",
+"price":"250.00",
+"images":[
+]
+}
+]
+},
+{
+"id":"26588",
+"name":"Peri-peri chicken",
+"menu-items":[
+{
+"id":"94349",
+"name":"1/4 Chicken",
+"description":"Quarter Chicken Marinated with PERi-PERi Sauce and Grilled",
+"price":"385.00",
+"images":[
+]
+},
+{
+"id":"94352",
+"name":"1/2 Chicken",
+"description":"Half Chicken Marinated with PERi-PERi Sauce and Grilled",
+"price":"685.00",
+"images":[
+]
+},
+{
+"id":"94354",
+"name":"Egg Biryani",
+"description":"Half Egg with Biryani",
+"price":"258.00",
+"images":[
+]
+},
+{
+"id":"94358",
+"name":"1/2 Chicken Biryani",
+"description":"Half Chicken Biryani",
+"price":"350.00",
+"images":[
+]
+}
+]
+}
+]
+},
+{
+"restaurantId":3,
+"categories":[
+{
+"id":"26576",
+"name":"Breakfast",
+"menu-items":[
+{
+"id":"94298",
+"name":"Dosa",
+"description":"Tender, Spicy. Original or Peri-Crusted",
+"price":"40.00",
+"images":[
+]
+},
+{
+"id":"94301",
+"name":"Idly",
+"description":"Idly Livers Topped  Sauce, Served with A Roll To Soak Up The Sauce",
+"price":"20.00",
+"images":[
+]
+}
+]
+},
+{
+"id":"26588",
+"name":"Sandwiches",
+"menu-items":[
+{
+"id":"94349",
+"name":"Bread Butter sandwich",
+"description":"Quarter Bread Marinated Grilled",
+"price":"89.00",
+"images":[
+]
+},
+{
+"id":"94352",
+"name":"Grilled sandwich",
+"description":"Half sandwich Marinated Grilled",
+"price":"99.00",
+"images":[
+]
+},
+{
+"id":"94354",
+"name":"Egg sandwich",
+"description":"Half Egg with sandwich",
+"price":"258.00",
+"images":[
+]
+},
+{
+"id":"94358",
+"name":"1/2 Chicken sandwich",
+"description":"Half Chicken sandwich",
+"price":"350.00",
+"images":[
+]
+}
+]
+}
+]
+},
+{
+"restaurantId":4,
+"categories":[
+{
+"id":"26576",
+"name":"Pure Veg",
+"menu-items":[
+{
+"id":"94298",
+"name":"Veg Biryani",
+"description":"Tender, Spicy. Original or Peri-Crusted",
+"price":"200.00",
+"images":[
+]
+},
+{
+"id":"94301",
+"name":"Veg Pulav",
+"description":"Pulav Livers Topped  Sauce, Served with A Roll To Soak Up The Sauce",
+"price":"150.00",
+"images":[
+]
+}
+]
+},
+{
+"id":"26588",
+"name":"Non Veg",
+"menu-items":[
+{
+"id":"94349",
+"name":"Chicken Biryani",
+"description":"Quarter Bread Marinated Grilled",
+"price":"250.00",
+"images":[
+]
+},
+{
+"id":"94352",
+"name":"Family Pack Biryani",
+"description":"Half sandwich Marinated Grilled",
+"price":"599.00",
+"images":[
+]
+},
+{
+"id":"94354",
+"name":"Egg Biryani",
+"description":"Half Egg with Biryani",
+"price":"258.00",
+"images":[
+]
+},
+{
+"id":"94358",
+"name":"Mutton Biryani",
+"description":"Half Mutton Biryani",
+"price":"350.00",
+"images":[
+]
+}
+]
+}
+]
+},
+{
+"restaurantId":5,
+"categories":[
+{
+"id":"26576",
+"name":"Juice",
+"menu-items":[
+{
+"id":"94298",
+"name":"Mango Juice",
+"description":"Tender, Mango Juice",
+"price":"200.00",
+"images":[
+]
+},
+{
+"id":"94301",
+"name":"Apple Juice",
+"description":"Simple Apple Juice",
+"price":"150.00",
+"images":[
+]
+}
+]
+},
+{
+"id":"26588",
+"name":"Ice Cream",
+"menu-items":[
+{
+"id":"94349",
+"name":"Butter Ice Cream",
+"description":"Cool Butter Ice Cream",
+"price":"250.00",
+"images":[
+]
+},
+{
+"id":"94352",
+"name":"Mango Ice Cream",
+"description":"Mango Ice Cream",
+"price":"99.00",
+"images":[
+]
+},
+{
+"id":"94354",
+"name":"Chocolate Ice Cream",
+"description":"Chocolate Ice Cream",
+"price":"258.00",
+"images":[
+]
+},
+{
+"id":"94358",
+"name":"Pan Ice Cream",
+"description":"Pan Chocolate Ice Cream",
+"price":"350.00",
+"images":[
+]
+}
+]
+}
+]
+}
+]
+}
